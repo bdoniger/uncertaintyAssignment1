@@ -1,2 +1,3 @@
-# uncertaintyAssignment1
-DS 5030 Understanding Uncertainty Assignment 1
+# uncertaintyAssignments
+
+Repo for assignments in DS 5030 Understanding Uncertainty
